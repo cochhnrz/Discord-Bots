@@ -69,7 +69,7 @@ async def on_message(message):
         
 @client.event
 async def on_ready():
-    print("stated")
+    print("started")
 
 client.run("MjUyNTYxMDU5ODY3NjU2MTkz.CxzvZA.PzIk2JMF0AoMmQ5k-JzyIvBxF9Y")
 
