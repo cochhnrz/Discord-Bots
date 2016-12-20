@@ -3,7 +3,6 @@ client = discord.Client()
 
 SERVER_NAME = "pybottest"
 SERVER_ID = "252561414940655618"
-channelDict = {"text":{},"voice":{}}
 tableDict = {}
 
 class Table: #each table is a class :D
