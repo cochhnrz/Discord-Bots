@@ -71,5 +71,5 @@ async def on_message(message):
 async def on_ready():
     print("started")
 
-client.run("MjUyNTYxMDU5ODY3NjU2MTkz.CxzvZA.PzIk2JMF0AoMmQ5k-JzyIvBxF9Y")
+client.run("TOKEN BANTER")
 
